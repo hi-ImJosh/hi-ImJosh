@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hi-ImJosh
+- 👋 Hi, I'm Joshua
 - 👀 I’m interested in Cybersecurity and Cloud Computing
-- 🌱 I’m currently learning Comptia Network+ and will continue with Google Cybersecurity Course and Security+
+- 🌱 I obtained Comptia Network+ and I'm continuing improving my skills
 - 💞️ I’m looking to collaborate on cloud projects and Python automation
 - 📫 How to reach me Discord zincogg
 
