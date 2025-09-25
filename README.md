@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Joshua
 - 👀 I’m interested in Cybersecurity and Cloud Computing
-- 🌱 I obtained Comptia Network+ and I'm continuing improving my skills
+- 🌱 I obtained Comptia Network+ and I'm currently a IT administrator for a school
 - 💞️ I’m looking to collaborate on cloud projects and Python automation
 - 📫 How to reach me Discord zincogg
 
